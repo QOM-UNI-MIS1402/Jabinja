@@ -1,2 +1,2 @@
 # Jabinja
-Acces file
+Access file
